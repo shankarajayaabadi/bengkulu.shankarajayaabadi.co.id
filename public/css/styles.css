@@ -1091,6 +1091,16 @@ footer {
     display: block;
   }
 }
+
+/* Responsive helper: shrink .mobile-only to fit small screens */
+@media (max-width: 480px) {
+  .mobile-only {
+    width: 100vw;
+    max-width: 100vw;
+    box-sizing: border-box;
+    overflow-x: auto;
+  }
+}
 /* Default: Hide elements for desktop-tablet-only */
 .desktop-tablet-only {
   display: none;
