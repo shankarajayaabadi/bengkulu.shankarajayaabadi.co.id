@@ -88,13 +88,13 @@ summaryLength = 25
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
-    text = "Jl. Letkol Santoso No. 8, Kota Bengkulu"
+    text = "Jl. Hibrida, Sido Mulyo, Kec. Gading Cemp., Kota Bengkulu, Bengkulu 38225"
   [[params.footer_contact]]
     icon = "fas fa-phone-alt"
     text = "+62 812-7994-7777"
   [[params.footer_contact]]
     icon = "fas fa-envelope"
-    text = "shankarajayaabadi.bkl@gmail.com"
+    text = "shankarajayaabadi.official1@gmail.com"
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar1.png"
