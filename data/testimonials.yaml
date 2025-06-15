@@ -1,45 +1,47 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
-    message: Saya sangat puas dengan kualitas produk dan pemasangan yang cepat.
+    name: Bagus
+    message: >-
+      Pelayanan dari bengkulu.shankarajayaabadi.co.id responsif. Hasil
+      pemasangan plafon PVC di rumah saya rapi.
     response: >-
       Kami berterima kasih atas ulasan Anda. Senang bisa membantu mewujudkan
       interior impian Anda.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Indah
+    name: Tia
     message: >-
-      Saya memilih bengkulu.shankarajayaabadi.co.id karena banyak pilihan motif.
-      Hasil pemasangan sangat rapi dan timnya profesional.
-    response: Terima kasih atas ulasannya! Kami senang Anda puas dengan produk kami.
+      Saya memilih bengkulu.shankarajayaabadi.co.id karena testimoni bagus.
+      Hasil pemasangan memuaskan dan timnya ramah.
+    response: >-
+      Kami bangga dapat membantu Anda menemukan plafon PVC yang cocok untuk
+      rumah Anda di Bengkulu.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Rian
-    message: >-
-      Saya menyarankan bengkulu.shankarajayaabadi.co.id untuk siapa saja yang
-      ingin hasil maksimal di Bengkulu.
+    name: Fajar
+    message: Proses pemasangan plafon PVC sangat cepat dan hasilnya memuaskan.
     response: >-
-      Terima kasih telah merekomendasikan layanan kami di Bengkulu. Kami akan
-      terus meningkatkan kualitas.
+      Kami gembira dapat memenuhi harapan Anda. Terima kasih atas kepercayaan
+      Anda!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Alya
-    message: >-
-      Plafon PVC dari bengkulu.shankarajayaabadi.co.id membuat ruangan lebih
-      elegan. Tim pemasangan ramah dan hasilnya memuaskan.
+    name: Mira
+    message: Saya terkesan dengan pelayanan dan kualitas produk yang diberikan.
     response: >-
-      Kami menghargai ulasan Anda. Senang dapat membantu mewujudkan interior
-      impian Anda.
+      Terima kasih atas kepercayaannya! Kami selalu berusaha memberikan hasil
+      terbaik untuk pelanggan di Bengkulu.
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Yanto
-    message: Plafon PVC yang dipasang membuat ruangan lebih modern.
+    name: Hendra
+    message: Plafon PVC yang dipasang menambah kenyamanan.
     response: Terima kasih atas ulasannya! Kami senang dapat membantu proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar6.png
     name: Maya
-    message: Saya puas dengan hasil pemasangan dan kualitas produk yang diberikan.
+    message: >-
+      Pelayanan dari bengkulu.shankarajayaabadi.co.id sangat ramah. Plafon PVC
+      yang dipasang sangat cocok dengan desain rumah saya.
     response: >-
-      Kami senang mendengar Anda puas dengan layanan kami. Terima kasih atas
+      Kami gembira mendengar Anda puas dengan layanan kami. Terima kasih atas
       kepercayaan Anda!
     rating: 5
